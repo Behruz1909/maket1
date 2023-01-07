@@ -1,0 +1,32 @@
+.container{
+    width: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.user{
+    padding: 50px;
+    background-color: #F7F7F7;
+}
+.wrapper__title{
+    margin-bottom: 10%;
+}
+.wrapper{
+    width: 600px;
+    transform: translate(50%);
+}
+.wrapper__link{
+    text-decoration: none;
+    color: #000;
+}
+.wrapper__link:hover{
+    color: orange;
+    text-decoration: underline;
+    transition: all 0.3s ease;
+}
+.wrapper__desc{
+    font-size: 20px;
+}
+.wrapper__img{
+    margin-top: -50px;
+}
